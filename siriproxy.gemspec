@@ -5,9 +5,9 @@ require "siriproxy/version"
 Gem::Specification.new do |s|
   s.name        = "siriproxy"
   s.version     = SiriProxy::VERSION
-  s.authors     = ["plamoni", "chendo", "netpro2k","jimmykane9","Wouter DS","thpryrchn"]
+  s.authors     = ["plamoni", "chendo", "netpro2k","jimmykane9","Wouter DS","thpryrchn","Playfrog4u"]
   s.email       = []
-  s.homepage    = "http://quartzcoding.blogspot.com"
+  s.homepage    = "http://playfrog4u.com"
   s.summary     = %q{A (tampering) proxy server for Apple's Siri}
   s.description = %q{Siri Proxy is a proxy server for Apple's Siri "assistant." The idea is to allow non Siri Capable Devices to make requests to apple. Welcome to the Three Little Pigs.}
 
